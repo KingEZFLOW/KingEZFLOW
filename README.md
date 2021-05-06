@@ -5,7 +5,7 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://ezflow.dev/discord)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ezflow.dev/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://ezflow.dev/twitter)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://hyperz.dev/github)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://ezflow.dev/github)
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=KingEZFLOW&label=Views&color=blue&style=plastic)
 

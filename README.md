@@ -1,6 +1,6 @@
 ## Sup 👋, I'm [EZFLOW!](https://ezflow.dev/)
 
-<img align="right" height="60" width="60" alt="" src="http://hyperz.dev/images/logowhite.png" />
+<img align="right" height="60" width="60" alt="" src="http://ezflow.dev/images/ezflow.png" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://ezflow.dev/discord)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ezflow.dev/)

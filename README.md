@@ -9,8 +9,6 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=KingEZFLOW&label=Views&color=blue&style=plastic)
 
-I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to party with friends and hang out in Discord calls 👨🏻‍💻. I'm currently into Discord Bot Development 🕸️ and working on my Command Handlers and Formatting 🤓.
-
 <img align="right" height="215" width="325" alt="" src="https://ezflow.dev/img/NW0aV8om.jpg" />
 
 ### Languages and Tools:
